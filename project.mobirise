@@ -133,7 +133,7 @@
             "paddingBottom": "5",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/3d-city-2000x754.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3d%20city-2000x754.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -418,7 +418,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/carlos-profile-600x493.jpg",
+              "src": "@PROJECT_PATH@/assets/images/carlos_profile-600x493.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
