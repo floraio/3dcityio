@@ -417,10 +417,6 @@ h6,
   color: #000;
 }
 
-#content5-15 .mbr-section-title,
-#content5-15 p {
-  color: #fff;
-}
 #content8-14 .mbr-section-title,
 #content8-14 p {
   text-align: right;
@@ -431,8 +427,9 @@ h6,
   font-family: 'PT Sans', sans-serif;
   font-size: 48px;
 }
-#msg-box5-w P {
-  text-align: left;
+#content5-15 .mbr-section-title,
+#content5-15 p {
+  color: #fff;
 }
 #features1-11 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
